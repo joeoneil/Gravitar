@@ -1,0 +1,6 @@
+[submodule "devcade-library"]
+	path = devcade-library
+	url = https://github.com/joeoneil/devcade-library
+[submodule "gitmodules/devcade-library"]
+	path = gitmodules/devcade-library
+	url = https://github.com/joeoneil/devcade-library

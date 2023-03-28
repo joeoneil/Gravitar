@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using System.Security.Principal;
 using Devcade.events;
 using Gravitar.Data;
 using Gravitar.Drawing;
